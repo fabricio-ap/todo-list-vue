@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 0,
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "completed": false
+    },
+    {
+      "id": 1,
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry, Lorem Ipsum is simply dummy text of the printing and typesetting industry, Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "completed": true
+    },
+    {
+      "id": 2,
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "completed": false
+    },
+    {
+      "id": 3,
+      "title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
+      "completed": false
+    }
+  ]
+}
